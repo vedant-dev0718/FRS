@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045249839151",
+    "project_id": "frs-552f3",
+    "storage_bucket": "frs-552f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045249839151:android:dd4285b4625d16c0f5f6da",
+        "android_client_info": {
+          "package_name": "vedant.tiwari.frs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowqX5LTnqbhSkoPtqtUDcsjPeqPRIhEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
